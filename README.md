@@ -1,2 +1,2 @@
 # hello-world
-Dett er en test
+Dette er en test
